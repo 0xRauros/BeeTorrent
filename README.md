@@ -6,6 +6,9 @@ BeeTorrent, el intrépido abejorro del mundo de los torrents, ha llegado zumband
 
 Así que déjate llevar por el enjambre de la descarga descentralizada y únete a la colmena de usuarios felices de BeeTorrent. ¡Prepárate para zambullirte en un mundo de archivos zumbones y diversión sin fin!
 
+## Status
+Building
+
 ## TODO
 - [x] Single file support
 - [ ] Hash check with the tracker and pieces
