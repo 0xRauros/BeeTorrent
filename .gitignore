@@ -1,6 +1,9 @@
 venv_beetorrent/
 /venv_beetorrent/
+test_files/
+/test_files/
 guia.txt
+copy.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
